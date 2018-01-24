@@ -1,0 +1,18 @@
+[main] 16:25:26,516 INFO  [common.common2] opening browser
+[main] 16:25:31,956 INFO  [common.common2] opened greenhouse
+[main] 16:25:31,956 INFO  [test.logintest] first comment
+[main] 16:25:32,283 INFO  [common.common2] [[ChromeDriver: chrome on XP (9810a69e7fe50b311e569d30faa903f9)] -> xpath: //*[@id="nav"]/ul/li[1]/a]clicked 
+[main] 16:25:32,406 INFO  [common.common2] ask@test.com entered 
+[main] 16:25:32,520 INFO  [common.common2] testgreen entered 
+[main] 16:25:32,710 INFO  [common.common2] [[ChromeDriver: chrome on XP (9810a69e7fe50b311e569d30faa903f9)] -> xpath: //*[@id='signin']/p[1]/button]clicked 
+[main] 16:25:32,771 INFO  [common.common2] text verified
+[main] 16:25:32,771 INFO  [test.logintest] second comment
+[main] 16:26:16,889 INFO  [common.common2] opening browser
+[main] 16:26:20,084 INFO  [common.common2] opened greenhouse
+[main] 16:26:20,084 INFO  [test.logintest] first comment
+[main] 16:26:20,313 INFO  [common.common2] [[ChromeDriver: chrome on XP (b620efe26880900930daaffc93408c6f)] -> xpath: //*[@id="nav"]/ul/li[1]/a]clicked 
+[main] 16:26:20,416 INFO  [common.common2] ask@test.com entered 
+[main] 16:26:20,492 INFO  [common.common2] testgreen entered 
+[main] 16:26:20,626 INFO  [common.common2] [[ChromeDriver: chrome on XP (b620efe26880900930daaffc93408c6f)] -> xpath: //*[@id='signin']/p[1]/button]clicked 
+[main] 16:26:20,675 INFO  [common.common2] text verified
+[main] 16:26:20,676 INFO  [test.logintest] second comment

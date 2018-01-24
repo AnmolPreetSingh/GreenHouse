@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Startingnew" duration-ms="6995" started-at="2018-01-24T00:25:26Z" finished-at="2018-01-24T00:25:33Z">
+    <groups>
+    </groups>
+    <test name="testngTest" duration-ms="6995" started-at="2018-01-24T00:25:26Z" finished-at="2018-01-24T00:25:33Z">
+      <class name="test.logintest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.logintest@27808f31]" name="setUp" is-config="true" duration-ms="5447" started-at="2018-01-23T16:25:26Z" finished-at="2018-01-23T16:25:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="mainTest()[pri:0, instance:test.logintest@27808f31]" name="mainTest" duration-ms="815" started-at="2018-01-23T16:25:31Z" finished-at="2018-01-23T16:25:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:test.logintest@27808f31]" name="teardown" is-config="true" duration-ms="716" started-at="2018-01-23T16:25:32Z" finished-at="2018-01-23T16:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.logintest -->
+    </test> <!-- testngTest -->
+  </suite> <!-- Startingnew -->
+</testng-results>
